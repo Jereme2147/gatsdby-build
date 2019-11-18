@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-js","path":"/blog/nov-19-week1","result":{"data":{"markdownRemark":{"frontmatter":{"title":"test post","date":"2019-11-7"},"html":"<ul>\n<li>\n<h3>Post 1</h3>\n<p>just getting the build working</p>\n</li>\n</ul>"}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"nov-19-week1"}}}
